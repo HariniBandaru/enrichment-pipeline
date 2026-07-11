@@ -1,0 +1,14 @@
+{
+  "total_input_rows": 39,
+  "unique_domains": 36,
+  "duplicate_rows": 2,
+  "invalid_input": 1,
+  "enrichment_attempted": 36,
+  "succeeded": 34,
+  "no_match": 2,
+  "failed": 0,
+  "failure_reasons": {},
+  "success_rate": 0.9444,
+  "elapsed_seconds": 2.76,
+  "throughput_domains_per_sec": 13.0
+}
